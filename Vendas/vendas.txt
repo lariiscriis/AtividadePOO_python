@@ -1,0 +1,3 @@
+Larissa,  11111, Produto D, 5, R$0
+Larissa,  11111, Produto F, 10, R$200
+Joao,  111111, Produto A, 10, R$200
