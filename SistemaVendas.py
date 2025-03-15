@@ -138,7 +138,7 @@ class SistemaVendas:
             for linha in produtos:
                 nomeProduto, quantidade, preco = linha.strip().split(",")
                 if nome_produtoInput == nomeProduto:
-                    produto = Produto(nomeProduto, int(quantidade), float(preco))  # Produto encontrado
+                    produto = Produto(nomeProduto, int(quantidade), float(preco))  
                     break
             else:
                 print("Produto Não encontrado!")
